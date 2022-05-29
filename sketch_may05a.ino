@@ -4,6 +4,8 @@
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
 
+// https://how2electronics.com/qr-code-scanner-with-esp32-cam-module-opencv/
+
 
 const char* WIFI_SSID = "YOUR WIFI SSID";
 const char* WIFI_PASS = "YOUR WIFI PASSWORD";
